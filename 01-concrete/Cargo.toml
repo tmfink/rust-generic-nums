@@ -1,0 +1,6 @@
+[package]
+name = "factorial-concrete"
+version = "0.1.0"
+authors = ["Travis Finkenauer <tmfinken@gmail.com>"]
+
+[dependencies]
