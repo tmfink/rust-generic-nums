@@ -1,0 +1,8 @@
+[package]
+name = "factorial-generic-analysis"
+version = "0.1.0"
+authors = ["Travis Finkenauer <tmfinken@gmail.com>"]
+
+[dependencies]
+num = "0.1"
+rand = "0.3"
